@@ -7,6 +7,8 @@ Silver UI's menu skin and translucent panels combined with the UI Icon Remake's 
 
 for Dark Souls: Remastered (PC) · install with DSR-TPUP.
 
+**下载 / Download**：[Releases](../../releases/latest) 里的 `Better-User-Interface-For-DS-RE_v1.0.zip`（本仓库只放说明与预览图，贴图在 Release 包里）。/ Grab the zip from **Releases** — this repo carries the README and previews, the textures ship in the release asset.
+
 ## 预览 / Preview
 
 ![textures](preview/menu-textures.png)
