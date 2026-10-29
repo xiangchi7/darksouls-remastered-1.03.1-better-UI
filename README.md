@@ -2,9 +2,6 @@
 
 **[中文](#中文) · [English](#english)**
 
-> 贴图包在 **Releases** 里（`Better-UI-DSR-1.03.1.zip`），仓库只放说明。
-> The texture pack lives in **Releases** (`Better-UI-DSR-1.03.1.zip`); the repository holds the description only.
-
 ## English
 
 A texture pack that combines two Dark Souls: Remastered UI mods into one — with my own subjective edits made along the way:
@@ -16,9 +13,9 @@ A texture pack that combines two Dark Souls: Remastered UI mods into one — wit
 
 **Install:**
 
-1. Download `Better-UI-DSR-1.03.1.zip` from [Releases](../../releases/latest) and extract it (it contains a `Texture Override` folder).
+1. Download or clone this repository — the textures are in the `Texture Override` folder.
 2. Close the game.
-3. Requires **DSR Texture Packer & Unpacker (DSR-TPUP)**: point TPUP's **Texture Override** at the extracted `Texture Override` folder and click **Pack**.
+3. Requires **DSR Texture Packer & Unpacker (DSR-TPUP)**: point TPUP's **Texture Override** at this repository's `Texture Override` folder and click **Pack**.
 4. Restore with TPUP's **Restore**, or rename the `.tpupbak` files beside the archives back.
 
 Textures are BC3 (DXT5): 13 files with the classic DDS header, 7 with a DX10 header — both are valid BC3 and TPUP reads them.
@@ -36,9 +33,9 @@ All art belongs to the authors of those two packs.
 
 **安装**：
 
-1. 到 [Releases](../../releases/latest) 下载 `Better-UI-DSR-1.03.1.zip` 并解压（里面有 `Texture Override` 文件夹）。
+1. 下载或 clone 本仓库，贴图就在 `Texture Override` 文件夹里。
 2. 关闭游戏。
-3. 需要 **DSR Texture Packer & Unpacker (DSR-TPUP)**：把 TPUP 的 **Texture Override** 指向解压出来的 `Texture Override` 文件夹，点 **Pack**。
+3. 需要 **DSR Texture Packer & Unpacker (DSR-TPUP)**：把 TPUP 的 **Texture Override** 指向仓库里的 `Texture Override` 文件夹，点 **Pack**。
 4. 还原用 TPUP 的 **Restore**，或把 `menu\` 里的 `.tpupbak` 改回原名。
 
 贴图是 BC3（DXT5）：13 张用传统 DDS 头，7 张用 DX10 头，都是合法 BC3，TPUP 都能读。
