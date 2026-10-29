@@ -1,0 +1,60 @@
+Better User Interface — for Dark Souls: Remastered 1.03.1
+
+This pack merges two other Dark Souls: Remastered UI mods and adds hand edits:
+
+  * Silver UI + Lock-on + Bow Aim + Translucent  (Nexus mod 39)
+  * UI Icon Remake                               (Nexus mod 667)
+
+--------------------------------------------------------------------------
+Artwork — belongs to the original authors
+--------------------------------------------------------------------------
+Every texture under "Texture Override/" is derived from those two packs and
+stays the property of its original authors. This repository claims no
+copyright over them and grants no commercial licence:
+
+  * personal, single-player use with Dark Souls: Remastered (via DSR-TPUP)
+    is what this pack is for;
+  * do not sell it, do not ship it inside a paid product, do not re-upload it
+    as your own work;
+  * if an original author asks for their assets to be taken out of this pack,
+    they will be removed.
+
+--------------------------------------------------------------------------
+README text and the merge itself — MIT
+--------------------------------------------------------------------------
+The README text and the merge work (which textures were picked, how panels
+were recomposed, the edits made on top) are provided under the MIT licence:
+
+MIT License
+
+Copyright (c) 2026 xiangchi7
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------
+中文
+--------------------------------------------------------------------------
+`Texture Override/` 里的贴图来自上面两个原包，版权归原作者所有：本仓库不对其主张
+版权，也不授权商业使用。可以自己单机使用（配合 DSR-TPUP），但不得出售、不得打包
+进付费产品、不得当作自己的作品重新上传；原作者要求下架时即删除。
+README 文字以及这里的合并工作（选了哪些贴图、面板如何重拼、在此基础上做的修改）
+按上面的 MIT 授权。
+
+Not affiliated with FromSoftware or Bandai Namco. Dark Souls: Remastered and its
+assets are © FromSoftware / Bandai Namco.
