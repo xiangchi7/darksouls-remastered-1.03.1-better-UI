@@ -1,4 +1,4 @@
-# Better User Interface — for Dark Souls: Remastered
+# Better User Interface — for Dark Souls: Remastered 1.03.1
 
 ## English
 
